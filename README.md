@@ -48,3 +48,7 @@ Add a new payment address for the provided Yat.
 * Use of libraries (no need to re-invent the wheel)
 * Commit history, commit often to show your thought process
 * Tests are a plus
+
+### Missing something?
+
+* Do you need some more context? Was something a little vague? Missing an environment variable? Please reach out, either via the recruiter or directly to me.
